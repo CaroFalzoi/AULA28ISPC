@@ -3,3 +3,4 @@ for i in list:
  if i== list[0] or i== list[2]:
      continue
  print(i)
+
