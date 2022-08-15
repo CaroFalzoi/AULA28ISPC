@@ -45,5 +45,5 @@ insert into historial value(03,2021/12/29,39,'baño y corte de uñas',3000)
 
 //Actividad 4//
 update perro
-set fecha_nac = '28/05/2020'
+set fecha_nac = '2020/05/28'
 where  id_perro= 45
