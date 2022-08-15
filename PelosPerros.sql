@@ -38,9 +38,9 @@ insert into dueno value(36245987,'Gaton','Gonzalez',3513788755,'Duarte Quiroz 78
  constraint fk_fh foreign key (perro) references perro(id_perro)
  )
  
- insert into historial value(01,03/07/2020,19,'corte de uñas',500)
- insert into historial value(02,22/10/2021,39,'baño',2500)
-insert into historial value(03,29/12/2021,39,'baño y corte de uñas',3000)
+ insert into historial value(01,2020/07/03,19,'corte de uñas',500)
+ insert into historial value(02,2021/10/02,39,'baño',2500)
+insert into historial value(03,2021/12/29,39,'baño y corte de uñas',3000)
 
 
 //Actividad 4//
